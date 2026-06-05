@@ -130,5 +130,5 @@ terehov2005@gmail.com
 Код проекта доступен на GitHub:
 
 ```text
-https://github.com/Terehov380/calculator
+https://github.com/Terehov380/calc_ingredients
 ```
